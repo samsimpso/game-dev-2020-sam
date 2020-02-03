@@ -1,7 +1,0 @@
-<h1 align=center>index.html bysam</h1>
-
-<li><a href="https://github.com/samsimpso/game-dev-2020-sam">https://github.com/samsimpso/game-dev-2020-sam</a>
-<li><a href="...">My Website</a>
-
-<li><a
-href="...">ml/T3A01-machine-learning-Index-Sam.html</a>
